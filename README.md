@@ -9,10 +9,10 @@ This is a project I completed for one of my classes. It analyzes the impact of t
 **Percent Change:** 7.3%
 
 #### Visualizations
-**Daily Gains/Losses vs. COVID-19 Deaths**
-This chart visualizes the daily gains and losses of the Nasdaq Composite index against the daily reported COVID-19 deaths.
-**Daily Gains/Losses vs. COVID-19 Cases**
-This chart visualizes the daily gains and losses of the Nasdaq Composite index against the daily reported COVID-19 cases.
+**Daily Gains/Losses vs. COVID-19 Deaths**<br>
+This chart visualizes the daily gains and losses of the Nasdaq Composite index against the daily reported COVID-19 deaths.The orange bars depict the daily stock market performance, while the gray line represents daily COVID-19 deaths. This chart can help identify if there are any patterns or correlations between the stock market's response and the number of COVID-19 deaths. <br>
+**Daily Gains/Losses vs. COVID-19 Cases**<br>
+This chart visualizes the daily gains and losses of the Nasdaq Composite index against the daily reported COVID-19 cases. The orange bars show fluctuations in the Nasdaq Composite Index, with heights indicating the magnitude of gains or losses each day. The gray line represents the number of daily COVID-19 cases. Trends or spikes in cases can be compared with stock market movements to identify any potential correlations.
 
 #### Insights
 - Significant fluctuations in daily gains and losses were observed, reflecting the high volatility and uncertainty in the market during the pandemic.
