@@ -4,8 +4,8 @@ This is a project I completed for one of my classes. It analyzes the impact of t
   
 ### Analysis Summary
 #### Key Metrics
-**Closing Price on January 21, 2020:** $9,371
-**Closing Price on June 30, 2020:** $10,059
+**Closing Price on January 21, 2020:** $9,371. <br>
+**Closing Price on June 30, 2020:** $10,059. <br>
 **Percent Change:** 7.3%
 
 #### Visualizations
